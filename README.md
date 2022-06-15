@@ -21,3 +21,7 @@ You will also see any lint errors in the console.
 <img width="1512" alt="Screenshot 2022-06-14 at 9 49 21 PM" src="https://user-images.githubusercontent.com/43230644/173719160-f59cd02f-8923-4489-b148-bedf58c93ff4.png">
 <img width="1512" alt="Screenshot 2022-06-14 at 9 49 28 PM" src="https://user-images.githubusercontent.com/43230644/173719161-03737fbd-97b4-4056-9ee9-062c7cacca36.png">
 <img width="1512" alt="Screenshot 2022-06-14 at 9 49 36 PM" src="https://user-images.githubusercontent.com/43230644/173719163-0b33e28b-a39e-4821-87fd-d292228cbb32.png">
+
+
+##Further implementation
+- currently just have simple UI foundation , next steps is to adjust UI to complete the wireframes
