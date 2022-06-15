@@ -9,7 +9,7 @@ const useStyles = makeStyles({
   grid: {
     height: "100%",
   },
-  icon: { color: "#4CA07A" },
+  icon: { color: "#4CA07A", marginRight: 8 },
   font: {
     fontSize: 18,
     color: "#4CA07A",
@@ -27,7 +27,7 @@ export function Footer() {
       >
         <Grid item xs={3} container alignItems="center" justifyContent="center">
           <EmailIcon className={classes.icon} />
-          <span>suentsz96wing@gmail.com</span>
+          <a href="mailto:suentsz96wing@gmail.com">suentsz96wing@gmail.com</a>
         </Grid>
 
         <Grid item xs={3} container alignItems="center" justifyContent="center">
@@ -36,7 +36,12 @@ export function Footer() {
         </Grid>
         <Grid item xs={3} container alignItems="center" justifyContent="center">
           <GitHubIcon className={classes.icon} />
-          <span className={classes.font}>suentsz96wing@gmail.com</span>
+          <a
+            href="https://github.com/suentsz96wing/inroble-interview"
+            className={classes.font}
+          >
+            Github
+          </a>
         </Grid>
       </Grid>
     </div>
