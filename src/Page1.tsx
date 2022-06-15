@@ -100,6 +100,7 @@ export function Page1() {
                     ? "Please choose a date"
                     : null
                 }
+                clearable
                 className={classes.username}
                 disableToolbar
                 variant="inline"
