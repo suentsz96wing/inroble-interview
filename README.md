@@ -23,5 +23,5 @@ You will also see any lint errors in the console.
 <img width="1512" alt="Screenshot 2022-06-14 at 9 49 36 PM" src="https://user-images.githubusercontent.com/43230644/173719163-0b33e28b-a39e-4821-87fd-d292228cbb32.png">
 
 
-##Further implementation
+## Further implementation
 - currently just have simple UI foundation , next steps is to adjust UI to complete the wireframes
