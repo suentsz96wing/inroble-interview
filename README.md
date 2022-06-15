@@ -20,5 +20,4 @@ You will also see any lint errors in the console.
 <img width="1512" alt="Screenshot 2022-06-14 at 9 40 21 PM" src="https://user-images.githubusercontent.com/43230644/173718131-aa27a897-2185-4a77-a7b6-01a035b2860c.png">
 
 
-<img width="1512" alt="Screenshot 2022-06-14 at 9 40 31 PM" src="https://user-images.githubusercontent.com/43230644/173718144-b9238907-1561-4e46-a4fd-7d9542209a7e.png">
-<img width="1512" alt="Screenshot 2022-06-14 at 9 40 35 PM" src="https://user-images.githubusercontent.com/43230644/173718151-6d10269f-8b43-4429-84cc-3d43e79a0910.png">
+<img width="1512" alt="Screenshot 2022-06-14 at 9 40 31 PM" src="https://user-images.githubusercontent.com/43230644/173718144-b9238907-1561-4e46-a4fd-7d9542209a7e.png"><img width="1512" alt="Screenshot 2022-06-14 at 9 42 21 PM" src="https://user-images.githubusercontent.com/43230644/173718311-00302387-acee-4e11-9522-44f438f6a4d0.png">
